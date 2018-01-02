@@ -102,3 +102,13 @@ body {
 .cal th:first-child{ color:#f00;}
 .cal th:last-child{ color:#04d;}
 .cal td{ padding:0 2px; line-height:100%;}
+
+html,
+body {
+	height:100%;
+}
+* {
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+}
