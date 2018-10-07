@@ -120,12 +120,11 @@ footer .text-muted, .pre-footer .text-muted {
   color: #bbb !important;
 }
 
-/*footer p,
-.pre-footer p {
-    margin: 0;
+footer p, .pre-footer p {
+  margin: 0;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
