@@ -76,15 +76,15 @@ header {
   overflow: hidden;
 }
 
-/*.project {
-    background-size: cover;
-    background-position: center center;
-    position: relative;
-    min-height: 300px;
-    transition: transform 0.4s ease-in-out;
+.project {
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  min-height: 300px;
+  transition: transform 0.4s ease-in-out;
 }
 
-.project:hover {
+/*.project:hover {
     transform: scale(1.2);
 }
 
