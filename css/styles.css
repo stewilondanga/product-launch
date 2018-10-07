@@ -31,11 +31,11 @@
   background-color: #292c47;
 }
 
-/*.navbar {
-    border: none !important;
+.navbar {
+  border: none !important;
 }
 
-.navbar-brand img {
+/*.navbar-brand img {
     height: 20px;
 }
 
