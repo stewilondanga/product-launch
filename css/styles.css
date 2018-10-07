@@ -35,11 +35,11 @@
   border: none !important;
 }
 
-/*.navbar-brand img {
-    height: 20px;
+.navbar-brand img {
+  height: 20px;
 }
 
-.navbar-toggler {
+/*.navbar-toggler {
     background-color: #dc3545;
     border-radius: 50%;
     height: 40px;
