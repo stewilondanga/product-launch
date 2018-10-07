@@ -116,12 +116,11 @@ footer {
   background-color: #2b2e4a;
 }
 
-/*footer .text-muted,
-.pre-footer .text-muted {
-    color: #bbb !important;
+footer .text-muted, .pre-footer .text-muted {
+  color: #bbb !important;
 }
 
-footer p,
+/*footer p,
 .pre-footer p {
     margin: 0;
 }
