@@ -112,11 +112,11 @@ header {
   background-color: #333659;
 }
 
-/*footer {
-    background-color: #2b2e4a;
+footer {
+  background-color: #2b2e4a;
 }
 
-footer .text-muted,
+/*footer .text-muted,
 .pre-footer .text-muted {
     color: #bbb !important;
 }
