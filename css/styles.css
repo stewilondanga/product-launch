@@ -108,11 +108,11 @@ header {
   opacity: 0.9;
 }
 
-/*.pre-footer {
-    background-color: #333659;
+.pre-footer {
+  background-color: #333659;
 }
 
-footer {
+/*footer {
     background-color: #2b2e4a;
 }
 
