@@ -84,11 +84,11 @@ header {
   transition: transform 0.4s ease-in-out;
 }
 
-/*.project:hover {
-    transform: scale(1.2);
+.project:hover {
+  transform: scale(1.2);
 }
 
-.project .overlay {
+/*.project .overlay {
     align-items: center;
     background-color: #dc3545;
     color: white;
