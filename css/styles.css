@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -22,7 +22,7 @@ body {
 }
 
 /* General Styles */
-.btn {
+/*.btn {
     padding: 0.75rem 2rem;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 /* Navbar */
-.navbar-container {
+/*.navbar-container {
     background-color: #292c47;
 }
 
@@ -67,7 +67,7 @@ body {
 }
 
 /* Header */
-header {
+/*header {
     background-image: url('https://pixelbuddha.net/livepreview/activebox/images/banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -76,7 +76,7 @@ header {
 }
 
 /* Projects */
-.project-container {
+/*.project-container {
     overflow: hidden;
 }
 
