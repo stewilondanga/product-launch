@@ -15,11 +15,11 @@
 
 /* General Styles */
 
-/*.btn {
-    padding: 0.75rem 2rem;
+.btn {
+  padding: 0.75rem 2rem;
 }
 
-.btn.btn-with-icon {
+/*.btn.btn-with-icon {
     margin: 0 0.2rem;
     padding: 0.5rem;
     width: 40px;
