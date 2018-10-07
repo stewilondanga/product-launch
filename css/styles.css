@@ -39,15 +39,15 @@
   height: 20px;
 }
 
-/*.navbar-toggler {
-    background-color: #dc3545;
-    border-radius: 50%;
-    height: 40px;
-    width: 40px;
-    padding: 0;
+.navbar-toggler {
+  background-color: #dc3545;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  padding: 0;
 }
 
-.navbar-light .navbar-nav .nav-link {
+/*.navbar-light .navbar-nav .nav-link {
     color: #bbb;
     font-size: 14px;
     font-weight: bold;
