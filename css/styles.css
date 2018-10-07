@@ -104,11 +104,11 @@ header {
   height: 100%;
 }
 
-/*.project:hover .overlay {
-    opacity: 0.9;
+.project:hover .overlay {
+  opacity: 0.9;
 }
 
-.pre-footer {
+/*.pre-footer {
     background-color: #333659;
 }
 
