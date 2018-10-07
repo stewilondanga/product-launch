@@ -72,11 +72,11 @@ header {
 
 /* Projects */
 
-/*.project-container {
-    overflow: hidden;
+.project-container {
+  overflow: hidden;
 }
 
-.project {
+/*.project {
     background-size: cover;
     background-position: center center;
     position: relative;
